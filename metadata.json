@@ -1,0 +1,6 @@
+{
+  "name": "GroceryPro - Phần Mềm Quản Lý Bán Hàng & POS Offline",
+  "description": "Hệ thống POS bán hàng tạp hoá GroceryPro chuẩn KiotViet, chạy Offline, hỗ trợ quét mã vạch USB, phím tắt F2/F8/F9, in hoá đơn K80 và đóng gói Electron Desktop Windows 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
